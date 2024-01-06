@@ -33,6 +33,19 @@ window :
       -
         type : 161
         enabled : false
+  -
+    name : LIB_SansNom1
+    identifier : 0x25996fb603f64858
+    internal_properties : CQAAAAkAAAApWR5XLf5tXUwTyuweG8WOTAcEDZdLKuSwC+s5GXYs6D1Zqr0EOheEnsBwU6xATk64R8EPZ9jgsl1Z/+ayhOtAZohJ3Oyc9+4/LMi9aZ5uMh/PscggQMtARwCsyqmR30IQ+IlPiVRDz1F+HNYDZmSixV8jK387ysKVWS6TB2V7nvNPsWg/Fmv6GflOGkeq4iC+OkV6txw3QTuKNhw2YhCjRif4ilisY8LE5APJaeOYh8jDqpKPXR+wtz70jaHR5H5dN5ZnUXC7vEHGkiUkERdP8wkziO0kRsGQ53SJoIboST1ua7DO9s7002DOd03Gl3FYbpXJ7myBFbV5lqVEmY6MEKFNQOAND5J23qXkw8Oj6CbmQ4RFIM5xgrgRl3JA/bnSfQI2jwXF2LAQ6WqW+nUM3p1m4VH0eH1ENY108HUN6Fnq1NJ8ULtSpW8ic6owBB+z0UYaGTTdMsw98FlQqY8Is9dlhtEciUGdF4vyo7/0McEgKA==
+    properties :
+     x : 348
+     y : 98
+     width : 125
+     height : 25
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
